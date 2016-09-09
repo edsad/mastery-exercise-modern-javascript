@@ -1,0 +1,22 @@
+{
+  "name": "lib",
+  "description": "",
+  "main": "Gruntfile.js",
+  "authors": [
+    "Ed Sadler <ed_lorie@comcast.net>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/edsad/mastery-exercise-modern-javascript",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.0",
+    "jasmine": "^2.4.1"
+  }
+}
